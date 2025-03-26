@@ -3,7 +3,9 @@ Our collaborative paper
 
 ## Authors
 One lie of authors
-Florian Goth, Carolina Köstler 
+
+Florian Goth, Carolina Köstler, Mateo Andrade, 
+
 
 
 ## Abstract
