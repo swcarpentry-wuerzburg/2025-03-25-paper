@@ -2,18 +2,23 @@
 Our collaborative paper
 
 ## Authors
+
 One line of authors
-Florian Goth, Mateo Andrade,Theresa Schönrock, Vijay Medala, Pratheeba 
+ 
+Florian Goth, Naomi Hemmelmann, Carolina Köstler, Robin Heiden, Felix Knote, Mateo Andrade,Theresa Schönrock, Vijay Medala, Moutaz Helal, Pratheeba
 
 
-
-
-
-
-
-Moutaz Helal
 
 ## Abstract
 
-## Intro
+## Introduction
+
+## Materials & Methods
+
+## Results
+
+## Discussion
+
+## References
+
 
