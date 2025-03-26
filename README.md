@@ -2,7 +2,7 @@
 Our collaborative paper
 
 ## Authors
-One lie of authors
+One line of authors
 Florian Goth, 
 
 
