@@ -4,8 +4,7 @@ Our collaborative paper
 ## Authors
 
 One line of authors
-Florian Goth, Mateo Andrade, Naomi Hemmelmann, Theresa Schönrock 
-
+Florian Goth, Mateo Andrade, Naomi Hemmelmann, Theresa Schönrock, Vijay Medala, Moutaz Helal
 
 ## Abstract
 
