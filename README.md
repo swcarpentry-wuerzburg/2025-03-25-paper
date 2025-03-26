@@ -2,8 +2,10 @@
 Our collaborative paper
 
 ## Authors
+
 One line of authors
-Florian Goth, Mateo Andrade, Naomi Hemmelmann 
+Florian Goth, Mateo Andrade, Naomi Hemmelmann, Theresa Schönrock 
+
 
 ## Abstract
 
