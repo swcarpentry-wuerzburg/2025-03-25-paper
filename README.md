@@ -2,9 +2,9 @@
 Our collaborative paper
 
 ## Authors
-One lie of authors
-Florian Goth, 
-Regina Wirsing
+One line of authors
+Florian Goth, Regina Wirsing, Mateo Andrade, Theresa Schönrock 
+
 
 ## Abstract
 
