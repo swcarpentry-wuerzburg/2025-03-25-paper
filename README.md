@@ -3,15 +3,8 @@ Our collaborative paper
 
 ## Authors
 One line of authors
-Florian Goth, Mateo Andrade,Theresa Schönrock, Vijay Medala 
+Florian Goth, Mateo Andrade, Moutaz Helal, Vijay Medala, Theresa Schönrock, 
 
-
-
-
-
-
-
-Moutaz Helal
 
 ## Abstract
 
