@@ -5,7 +5,9 @@ Our collaborative paper
 
 One line of authors
 
-Florian Goth, Mateo Andrade, Moutaz Helal,Naomi Hemmelmann, Carolina Köstler, Vijay Medala, Felix Note,Theresa Schönrock, Vijay Medala, Moutaz Helal
+<<<<<<< HEAD
+Florian Goth, Mateo Andrade,Helke Parussel,  Moutaz Helal,Naomi Hemmelmann, Carolina Köstler, Vijay Medala, Felix Note,Theresa Schönrock, Vijay Medala, Moutaz Helal
+ 
 
 ## Abstract
 
