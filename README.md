@@ -2,8 +2,11 @@
 Our collaborative paper
 
 ## Authors
-One lie of authors
-Florian Goth, Robin Heiden 
+One line of authors
+Florian Goth,
+Mateo Andrade,
+Theresa Schönrock 
+Robin Heiden
 
 
 ## Abstract
