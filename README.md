@@ -3,7 +3,7 @@ Our collaborative paper
 
 ## Authors
 One lie of authors
-Florian Goth, Nazia Afrin 
+Florian Goth, Nazia Afrin, Mateo Andrade, Theresa Schönrock 
 
 
 ## Abstract
