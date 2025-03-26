@@ -2,6 +2,8 @@
 Our collaborative paper
 
 
+## Abstract
+
 ## Introduction
 
 ## Materials & Methods
@@ -11,3 +13,4 @@ Our collaborative paper
 ## Discussion
 
 ## References
+
