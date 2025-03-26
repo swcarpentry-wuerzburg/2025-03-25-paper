@@ -5,7 +5,7 @@ Our collaborative paper
 
 One line of authors:
 
-Florian Goth, Naomi Hemmelmann, Carolina Köstler, Robin Heiden, Felix Knote, Mateo Andrade, Theresa Schönrock, Vijay Medala, Moutaz Hel, Helke Parussel, Raphaela Erbel, Regina Wirsing
+Florian Goth, Naomi Hemmelmann, Carolina Köstler, Robin Heiden, Felix Knote, Mateo Andrade, Theresa Schönrock, Vijay Medala, Moutaz Hel, Helke Parussel, Raphaela Erbel, Regina Wirsing, Jonas Karg
 >>>>>>> 7ff3761cf79877ef9720ee46b0ee6ec0451ad393
 
 ## Abstract
