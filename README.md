@@ -2,9 +2,10 @@
 Our collaborative paper
 
 ## Authors
-One lie of authors
-Florian Goth, 
+One lie of authors 
 Felix Knote
+Florian Goth,
+Mateo Andrade, 
 
 ## Abstract
 
