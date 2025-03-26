@@ -3,7 +3,7 @@ Our collaborative paper
 
 ## Authors
 One line of authors
-Florian Goth, 
+Florian Goth, Mateo Andrade,Theresa Schönrock 
 
 
 ## Abstract
