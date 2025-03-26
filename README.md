@@ -2,11 +2,17 @@
 Our collaborative paper
 
 ## Authors
-One lie of authors
+One line of authors
+Florian Goth, Carolina Köstler, Mateo Andrade,Theresa Schönrock, Vijay Medala 
 
-Florian Goth, Carolina Köstler, Mateo Andrade, 
 
 
+
+
+
+
+
+Moutaz Helal
 
 ## Abstract
 
