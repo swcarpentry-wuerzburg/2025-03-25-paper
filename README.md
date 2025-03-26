@@ -3,7 +3,7 @@ Our collaborative paper
 
 ## Authors
 
-Florian Goth, Mateo Andrade, Raphaela Erbel, Moutaz Helal, Naomi Hemmelmann, Carolina Köstler, Vijay Medala, Felix Note, Theresa Schönrock, Vijay Medala, Moutaz Helal, Helke Parussel,  Regina Wirsing, Jonas Karg 
+Florian Goth, Naomi Hemmelmann, Carolina Köstler, Robin Heiden, Felix Knote, Mateo Andrade, Theresa Schönrock, Vijay Medala, Moutaz Hel, Helke Parussel, Raphaela Erbel, Regina Wirsing, Jonas Karg, Pratheeba
 
 ## Abstract
 Private Input. <- What is this??
