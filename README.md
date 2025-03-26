@@ -2,16 +2,10 @@
 Our collaborative paper
 
 ## Authors
-Florian Goth, Mateo Andrade,Theresa Schönrock, Vijay Medala, Robin Heiden 
 
+One line of authors
+Florian Goth, Felix Knote, Mateo Andrade,Theresa Schönrock, Vijay Medala, Moutaz Helal, Robin Heiden
 
-
-
-
-
-
-
-Moutaz Helal
 
 ## Abstract
 
