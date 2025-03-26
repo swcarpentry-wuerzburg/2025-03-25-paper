@@ -2,10 +2,9 @@
 Our collaborative paper
 
 ## Authors
-<<<<<<< HEAD
-One lie of authors
-Florian Goth, Nazia Afrin, Mateo Andrade, Theresa Schönrock, Vijay Medala 
 
+Florian Goth,  Mateo Andrade, Theresa Schönrock, Vijay Medala, Felix Knote
+Nazia Afrin
 
 
 
@@ -13,6 +12,7 @@ Florian Goth, Nazia Afrin, Mateo Andrade, Theresa Schönrock, Vijay Medala
 
 
 Moutaz Helal
+
 
 ## Abstract
 
