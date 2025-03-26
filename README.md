@@ -12,10 +12,8 @@ Theresa Schönrock
 Amel Abazi
 =======
 
-One line of authors
 
-Florian Goth, Naomi Hemmelmann, Carolina Köstler, Robin Heiden, Felix Knote, Mateo Andrade,Theresa Schönrock, Vijay Medala, Moutaz Hel, Helke Parussel, Raphaela Erbel
->>>>>>> 04ec16e2a9b603a19c0620f49cf1d6f52f005430
+Florian Goth, Naomi Hemmelmann, Carolina Köstler, Robin Heiden, Felix Knote, Mateo Andrade,Theresa Schönrock, Vijay Medala, Moutaz Hel, Helke Parussel, Raphaela Erbel, Regina Wirsing, Saskia Haarmann, Amel Abazi
 
 ## Abstract
 Private Iput. <- What is this???
