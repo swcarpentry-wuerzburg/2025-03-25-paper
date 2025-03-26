@@ -9,10 +9,6 @@ Florian Goth, Mateo Andrade,Theresa Schönrock, Vijay Medala
 
 
 
-
-Jonas Karg,
-Moutaz Helal
-
 ## Abstract
 
 ## Intro
