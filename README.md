@@ -3,10 +3,9 @@ Our collaborative paper
 
 ## Authors
 One lie of authors
-Florian Goth, 
-
-
-
+Florian Goth,
+Mateo Andrade,
+Theresa Schönrock 
 
 
 
@@ -14,6 +13,7 @@ Florian Goth,
 
 
 Jonas Karg,
+Moutaz Helal
 
 ## Abstract
 
