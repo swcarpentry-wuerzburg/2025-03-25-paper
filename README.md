@@ -4,12 +4,12 @@ Our collaborative paper
 ## Authors
 
 One line of authors
+<<<<<<< HEAD
 
 <<<<<<< HEAD
-Florian Goth, Mateo Andrade,Helke Parussel,  Moutaz Helal,Naomi Hemmelmann, Carolina Köstler, Vijay Medala, Felix Note,Theresa Schönrock, Vijay Medala, Moutaz Helal
- 
-
+Florian Goth, Mateo Andrade, Raphaela Erbel , Moutaz Helal,Naomi Hemmelmann, Carolina Köstler, Vijay Medala, Felix Note,Theresa Schönrock, Vijay Medala, Moutaz Helal, Helke Parrousel 
 ## Abstract
+Private Iput.
 
 ## Introduction
 
