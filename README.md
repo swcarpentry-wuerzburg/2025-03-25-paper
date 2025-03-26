@@ -3,7 +3,7 @@ Our collaborative paper
 
 ## Authors
 One line of authors
-Florian Goth, Felix Knote, Mateo Andrade,Theresa Schönrock, Vijay Medala 
+Florian Goth, Felix Knote, Mateo Andrade,Theresa Schönrock, Vijay Medala, Raphaela Erbel
 
 
 
