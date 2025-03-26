@@ -3,8 +3,8 @@ Our collaborative paper
 
 ## Authors
 One line of authors
-Florian Goth, Regina Wirsing, Mateo Andrade, Theresa Schönrock 
 
+Florian Goth,Carolina Köstler, Felix Knote, Mateo Andrade,Theresa Schönrock, Vijay Medala, Moutaz Helal, Regina Wirsing
 
 ## Abstract
 
