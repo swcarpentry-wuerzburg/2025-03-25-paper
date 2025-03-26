@@ -3,12 +3,11 @@ Our collaborative paper
 
 ## Authors
 
-One line of authors
+One line of authors:
 
 
 
-Florian Goth, Naomi Hemmelmann, Carolina Köstler, Robin Heiden, Felix Knote, Mateo Andrade, Theresa Schönrock, Vijay Medala, Moutaz Hel, Helke Parussel, Raphaela Erbel, Regina Wirsing, Pratheeba
-
+Florian Goth, Naomi Hemmelmann, Carolina Köstler, Robin Heiden, Felix Knote, Mateo Andrade, Theresa Schönrock, Vijay Medala, Moutaz Hel, Helke Parussel, Raphaela Erbel, Regina Wirsing, Jonas Karg, Pratheeba
 
 ## Abstract
 Private Iput. <- What is this???
