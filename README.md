@@ -3,7 +3,7 @@ Our collaborative paper
 
 ## Authors
 One lie of authors
-Florian Goth, 
+Florian Goth, Robin Heiden 
 
 
 ## Abstract
