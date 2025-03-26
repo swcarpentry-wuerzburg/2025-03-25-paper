@@ -4,7 +4,7 @@ Our collaborative paper
 ## Authors
 One lie of authors
 Florian Goth, 
-
+Regina Wirsing
 
 ## Abstract
 
