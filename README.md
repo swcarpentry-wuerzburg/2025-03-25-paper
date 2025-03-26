@@ -2,11 +2,18 @@
 Our collaborative paper
 
 ## Authors
-One lie of authors 
-Felix Knote
-Florian Goth,
-Mateo Andrade, 
+One line of authors
+Florian Goth, Felix Knote, Mateo Andrade,Theresa Schönrock, Vijay Medala 
 
+
+
+
+
+
+
+Moutaz Helal
+
+>>>>>>> b258d5a105fb11555795751fbe0ea7fc0f88fb50
 ## Abstract
 
 ## Intro
