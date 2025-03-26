@@ -2,7 +2,7 @@
 Our collaborative paper
 
 ## Authors
-Florian Goth, Felix Knote, Mateo Andrade,Theresa Schönrock, Vijay Medala, Moutaz Helal
+Florian Goth,Carolina Köstler, Felix Knote, Mateo Andrade,Theresa Schönrock, Vijay Medala, Moutaz Helal
 Nazia Afrin
 
 ## Abstract
