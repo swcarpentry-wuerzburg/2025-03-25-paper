@@ -5,8 +5,8 @@ Our collaborative paper
 
 
 
-Florian Goth, Robin Heiden, Carolina Köstler, Felix Knote, Mateo Andrade,Theresa Schönrock, Vijay Medala, Moutaz Helal
-
+One line of authors
+Florian Goth,Carolina Köstler, Robin Heiden, Felix Knote, Mateo Andrade,Theresa Schönrock, Vijay Medala, Moutaz Helal
 
 
 ## Abstract
